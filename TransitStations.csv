@@ -1,0 +1,17 @@
+id,code,name,type
+17,SBK07,Surian,Elevated
+18,SBK08,Mutiara Damansara,Elevated
+19,SBK09,Bandar Utama,Elevated
+20,SBK10,TTDI,Elevated
+25,SBK12,Phileo Damansara,Elevated
+26,SBK13,Pusat Bandar Damansara,Elevated
+27,SBK14,Semantan,Elevated
+29,SBK15,Muzium Negara,Underground
+30,SBK16,Pasar Seni,Underground
+31,SBK17,Merdeka,Underground
+33,SBK18A,Bukit Bintang,Underground
+34,SBK22,AEON Maluri,Underground
+35,SBK23,Taman Pertama,Elevated
+36,SBK24,Taman Midah,Elevated
+37,SBK25,Taman Mutiara,Elevated
+38,SBK26,Taman Connaught,Elevated
